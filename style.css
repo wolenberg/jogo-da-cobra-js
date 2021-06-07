@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("img/snake-game.jpg");
+    background-size: 800px 600px;
+    background-color: #cccccc;
+    color: white; 
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-weight: 600;
+}
